@@ -40,7 +40,7 @@ If you want to contact me, feel free to send me an [e-mail](mailto:lumafepe@gmai
   <img align="center" alt="luis-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="luis-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg">
   <img align="center" alt="luis-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="luis-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg">
+  <img align="center" alt="luis-php" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg">
   
  
   </div>
