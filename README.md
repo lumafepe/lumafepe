@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-My name is Luís. I took up programming when I was 13, when I started learning Lua. In highschool I ventured into Python and some competitive programing participating in TECLA 2020.
+My name is Luís. I took up programming when I was 13, when I started learning Lua. In highschool I ventured into Python and some competitive programing participating in 6th in TECLA 2020, 3rd in MIUP 2023 and 50th in SWERC 2024.
 
 After high school I started studying Software Engineering in University of Minho. I also became a colaborator for [CeSIUM](cesium.di.uminho.pt) using PHP and Laravel for the development of a software so student could trade shifts in subjects automaticly called [swap](https://github.com/cesium/swap).
 
