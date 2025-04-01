@@ -1,12 +1,15 @@
 ## Hi there 👋 
 
-My name is Luís. I took up programming when I was 13, when I started learning Lua. In highschool I ventured into Python and some competitive programing participating in 6th in TECLA 2020, 3rd in MIUP 2023 and 50th in SWERC 2024.
+My name is Luís. I took up programming when I was 13, when I started learning Lua. In highschool I ventured into Python and some competitive programing participating in TECLA 2020 finishing in 6th place.
 
-After high school I started studying Software Engineering in University of Minho. I also became a colaborator for [CeSIUM](cesium.di.uminho.pt) using PHP and Laravel for the development of a software so student could trade shifts in subjects automaticly called [swap](https://github.com/cesium/swap).
 
-I am currently a researcher at HASLab/INESC TEC as well.
+After high school I started studying Software Engineering in University of Minho. I also became a colaborator for [CeSIUM](cesium.di.uminho.pt) using PHP,Laravel,Elixir and Phoenix, Currently I'm the Secretary of the fiscal council for the second time. 
 
-I can also program in Haskell,C,C++ and Java as you can see by the public projects I have on display here!
+I also continued to participate in competitive programming, achieving 3rd place (silver medalist) 2 times in MIUP and being in the top 60 of [SWERC](https://swerc.eu/) 2 times.
+
+I am currently a researcher at HASLab/INESC TEC as well doing research on SDN and Distributed Systems.
+
+Alghout the language I use the most is Python, I also know haskell,C,C++,Java,JavaSript,TypeSript,Elixir and P4.
 
 If you want to contact me, feel free to send me an [e-mail](mailto:lumafepe@gmail.com) !
 
